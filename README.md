@@ -10,7 +10,7 @@ Construyo productos backend en startups donde los requerimientos cambian rápido
  
 Me involucro con el producto tanto como con la tecnología — pienso las soluciones desde la experiencia del usuario y disfruto entender el *"para qué"* antes de saltar al *"cómo"*.
  
-Integro IA generativa de forma proactiva en mi día a día: tanto en el flujo de desarrollo (Claude, Claude Code) como en producto (OpenAI, LiteLLM, OCR, flujos conversacionales).
+Integro IA generativa de forma proactiva en mi día a día: tanto en el flujo de desarrollo (Claude, Claude Code) como en producto (OpenAI, OCR, flujos conversacionales).
  
 ### 🔭 En qué estoy ahora
  
@@ -45,12 +45,6 @@ Integro IA generativa de forma proactiva en mi día a día: tanto en el flujo de
 **Observabilidad**
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
- 
-### 📊 GitHub Stats
- 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcinome&show_icons=true&theme=default&hide_border=true&count_private=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcinome&layout=compact&theme=default&hide_border=true&langs_count=8)
  
 ### 📫 Donde encontrarme
  
